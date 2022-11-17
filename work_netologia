@@ -9,7 +9,7 @@ run = True
 #while цыкл 
 while run:
  comand input("Введите команду: ")
- if command == "help":
+   if command == "help":
    print(HELP)
  elif command == "show": 
    print(tasks)
